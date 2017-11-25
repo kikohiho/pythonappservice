@@ -1,6 +1,4 @@
 
 Flask==0.12.1
-numpy==1.13.3
-pandas==0.21.0
-requests==2.18.4
+
 
