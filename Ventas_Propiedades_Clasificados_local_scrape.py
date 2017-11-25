@@ -152,7 +152,7 @@ count=0
 #
 #     nextpage()
 
-rowscount = 0
+
 for run in range(2):
     count = count + 1
     print(count)
@@ -163,7 +163,7 @@ for run in range(2):
     data = to_datframe()
 
     new_data.append(data)
-    rowscount = rowscount + new_data.count()
+
     nextpage()
 
 #Prep & Export 
@@ -186,7 +186,7 @@ new_data = pd.concat(new_data)
 new_data.to_csv('Scraped_Ventas.csv', index=False)
 
 end = time.time()
-print("Time Ellapsed: " + (end - start) + "\n" + "Rows Scraped: " + rowscount)
+print("Time Ellapsed: " + (end - start))
 
 #plain_muni_names=["Adjuntas","Aguada","Aguadilla","Aguas Buenas","Aibonito","Anasco",
 #"Arecibo","Arroyo","Barceloneta","Barranquitas","Bayamon","Cabo Rojo","Caguas",
