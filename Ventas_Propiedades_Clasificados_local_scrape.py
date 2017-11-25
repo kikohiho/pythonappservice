@@ -194,8 +194,8 @@ new_data.to_csv('Scraped_Ventas.csv', index=False)
 end = time.time()
 print("Time Ellapsed: " + str(end - start) + " seconds")
 
-#message = client.messages.create(to="+17879184408", from_="+17875898265",
-#                                 body="Pages scraped succesfully :)")
+message = client.messages.create(to="+17879184408", from_="+17875898265",
+                                 body="Pages scraped succesfully :)")
 
 #plain_muni_names=["Adjuntas","Aguada","Aguadilla","Aguas Buenas","Aibonito","Anasco",
 #"Arecibo","Arroyo","Barceloneta","Barranquitas","Bayamon","Cabo Rojo","Caguas",
