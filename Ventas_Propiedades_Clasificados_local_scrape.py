@@ -13,8 +13,14 @@ from collections import OrderedDict
 from itertools import repeat
 from datetime import datetime
 import time
-
+from twilio.rest import Client
 start = time.time()
+
+
+account = "ACd3d6e9e802423f4e3d9e4215d6d2c114"
+token = "ACd3d6e9e802423f4e3d9e4215d6d2c114"
+client = Client(account, token)
+
 
 
 import math
@@ -187,6 +193,9 @@ new_data.to_csv('Scraped_Ventas.csv', index=False)
 
 end = time.time()
 print("Time Ellapsed: " + (end - start))
+
+message = client.messages.create(to="+17879184408", from_="+17875898265",
+                                 body="Pages scraped succesfully :)")
 
 #plain_muni_names=["Adjuntas","Aguada","Aguadilla","Aguas Buenas","Aibonito","Anasco",
 #"Arecibo","Arroyo","Barceloneta","Barranquitas","Bayamon","Cabo Rojo","Caguas",
