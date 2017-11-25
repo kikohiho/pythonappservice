@@ -1,0 +1,61 @@
+Barrio,Municipio,Precio,Tipo,Cuartos,Baños,ID,Repo,DateParsed
+Barrio-Toa Alta Heights,Toa Alta,"$48,000",Casa, 3 , 1,4173459,1,2017-11-24 20:51:06.050672
+Barrio-Naranjo,Moca,"$77,000",Casa, 3 , 2,4156066,1,2017-11-24 20:51:06.050672
+Urbanizacion-Jardines De Yabucoa,Yabucoa,"$67,000",Casa, 3 , 2,4172906,1,2017-11-24 20:51:06.050672
+Urbanizacion-Santa Isidra,Fajardo,"$50,000",Casa, 3 , 2,4172527,1,2017-11-24 20:51:06.050672
+Barrio-Esperanza,Arecibo,"$103,500",Casa, 3 , 2,4153643,1,2017-11-24 20:51:06.050672
+Urbanizacion-Borinquen Valley,Caguas,"$107,800",Casa, 3 , 2,4153641,1,2017-11-24 20:51:06.050672
+Urbanizacion-El Verde,Caguas,"$112,000",Casa, 2 , 2,4153646,1,2017-11-24 20:51:06.050672
+Urbanizacion-El Encanto,Juncos,"$100,000",Casa, 3 , 2,4136864,1,2017-11-24 20:51:06.050672
+Barrio-Las Platas,Cayey,"$67,999",Casa, 2 , 1,4104471,1,2017-11-24 20:51:06.050672
+Urbanizacion-Mansiones Del Caribe,Humacao,"$163,000",Casa, 4 , 2,4104379,1,2017-11-24 20:51:06.050672
+Condominio-Alturas Del Parque Escorial,Carolina,"$133,000",Apart, 3 , 2,4165909,1,2017-11-24 20:51:06.050672
+Urbanizacion-Villa Carolina,Carolina,"$125,000",Casa, 3 , 2,4165914,1,2017-11-24 20:51:06.050672
+Condominio-Porta Coeli Apartments,San Germán,"$80,000",Apart, 3 , 2,4171879,1,2017-11-24 20:51:06.050672
+Urbanizacion-Hacienda Las Lomas,Ceiba,"$85,800",Casa, 3 , 2,4164255,1,2017-11-24 20:51:06.050672
+Urbanizacion-Terrazas De Carolina,Carolina,"$96,000",Casa, 3 , 1,4164249,1,2017-11-24 20:51:06.050672
+Urbanizacion-Mansiones De Cabo Rojo,Cabo Rojo,"$189,000",Casa, 3 , 2,4117624,1,2017-11-24 20:51:06.050672
+Urbanizacion-Villas De La Esperanza,Juana Díaz,"$97,000",Casa, 3 , 1,4171298,1,2017-11-24 20:51:06.050672
+Condominio-Melisa Apartments,Ponce,"$41,000",Apart, 3 , 1,4171311,1,2017-11-24 20:51:06.050672
+Condominio-Paseo de Monteflores,Carolina,"$45,000",Casa, 2 , 1,4171303,1,2017-11-24 20:51:06.050672
+Condominio-Balcones De Monte Real,Carolina,"$119,000",Apart, 3 , 2,4171306,1,2017-11-24 20:51:06.050672
+Condominio-Balcones De Monte Real,Carolina,"$114,900",Apart, 3 , 2,4171307,1,2017-11-24 20:51:06.050672
+Urbanizacion-Alturas De Campo Rico,Canóvanas,"$87,000",Casa, 3 , 2,4171310,1,2017-11-24 20:51:06.050672
+Urbanizacion-Gran Vista,Gurabo,"$155,000",Casa, 4 , 2,4171309,1,2017-11-24 20:51:06.050672
+Urbanizacion-Bellomonte,Guaynabo,"$105,000",Casa, 3 , 1,4171302,1,2017-11-24 20:51:06.050672
+Urbanizacion-Parque De Candelero,Humacao,"$125,000",Casa, 3 , 2,4171308,1,2017-11-24 20:51:06.050672
+Urbanizacion-Villas De Rio Grande,Río Grande,"$83,000",Casa, 2 , 2,4171299,1,2017-11-24 20:51:06.050672
+Urbanizacion-Costa Real,Guayama,"$62,100",Casa, 3 , 2,4116990,1,2017-11-24 20:51:06.050672
+Urbanizacion-Fair View,Trujillo Alto,"$57,000",Casa, 3 , 1,4149988,1,2017-11-24 20:51:06.050672
+Urbanizacion-Jardines De Guerrero,Aguadilla,"$80,000",Casa, 3 , 1,4099874,1,2017-11-24 20:51:06.050672
+Urbanizacion-El Comandante,Carolina,"$111,000",Casa, 3 , 2,4162545,1,2017-11-24 20:51:06.050672
+Barrio-Mediania Alta,Loíza,"$55,300",Casa, 3 , 1,4097140,1,2017-11-24 20:51:11.259094
+Urbanizacion-Santa Maria 2da Extension,Ceiba,"$57,400",Casa, 3 , 2,4097118,1,2017-11-24 20:51:11.259094
+Urbanizacion-Villa Fontana,Carolina,"$85,500",Casa, 2 , 2,4145384,1,2017-11-24 20:51:11.259094
+Urbanizacion-Villa Carolina,Carolina,"$120,600",Casa, 3 , 2,4111608,1,2017-11-24 20:51:11.259094
+Urbanizacion-Bayamon Gardens,Bayamón,"$73,000",Casa, 6 , 4,4160224,1,2017-11-24 20:51:11.259094
+Condominio-Royal Palm,Vega Alta,"$125,000",Apart, 4 , 3,4079214,0,2017-11-24 20:51:11.259094
+Condominio-Jardines Metropolitanos,San Juan-Río Piedras,"$135,000",Apart, 3 , 2,4158066,0,2017-11-24 20:51:11.259094
+Urbanizacion-Valles De Patillas,Patillas,"$63,000",Casa, 3 , 2,4173690,1,2017-11-24 20:51:11.259094
+Sector-Condado,San Juan-Condado-Miramar,"$175,000",Comer, 2 , 1,3812487,0,2017-11-24 20:51:11.259094
+Condominio-Santa Ana,Guaynabo,"$99,000",Apart, 2 , 1,4028412,0,2017-11-24 20:51:11.259094
+Urbanizacion-Levittown,Toa Baja-Levittown,"$200,000",Multi, >=6 , 5,4087439,0,2017-11-24 20:51:11.259094
+Urbanizacion-Harbour Lights Estates Palmas del Mar ,Humacao-Palmas,"$180,000",Solar, 0 , 0,4078023,0,2017-11-24 20:51:11.259094
+Condominio-Medina Center,San Juan-Río Piedras,"$40,000",Comer, 2 , 2,3981202,0,2017-11-24 20:51:11.259094
+Condominio-Beach Tower,Carolina - Isla Verde,"$270,000",Apart, 3 , 2,3906396,0,2017-11-24 20:51:11.259094
+Urbanizacion-Rexville,Bayamón,"$450,000",Comer, 0 , 2,4128768,0,2017-11-24 20:51:11.259094
+Condominio-Beach Tower,Carolina - Isla Verde,"$270,000",Apart, 3 , 2,3924594,0,2017-11-24 20:51:11.259094
+Urbanizacion-Miraflores,Bayamón,"$35,000",Casa, 2 , 2,4167036,0,2017-11-24 20:51:11.259094
+Urbanizacion-Villa Contesa,Bayamón,"$175,000",Multi, >=6 , 5,4125563,0,2017-11-24 20:51:11.259094
+Urbanizacion-Royal Palm,Bayamón,"$140,000",Casa, 5 , 4,4101406,0,2017-11-24 20:51:11.259094
+Urbanizacion-Bayamon Gardens,Bayamón,"$325,000",Comer, 0 , 2,4057290,0,2017-11-24 20:51:11.259094
+Urbanizacion-La Villa De Torrimar,Guaynabo,"$399,000",Casa, 4 , 2,4096701,0,2017-11-24 20:51:11.259094
+Barrio-Minillas,Bayamón,"$2,500,000",Comer, 0 , 3,4077081,0,2017-11-24 20:51:11.259094
+Urbanizacion-Santa Cruz,Bayamón,"$280,000",Comer, 4 , 1,4113163,0,2017-11-24 20:51:11.259094
+Urbanizacion-Ciudad Jardin,Toa Alta,"$307,000",Casa, 4 , 2,4135993,0,2017-11-24 20:51:11.259094
+Urbanizacion-Sans Souci,Bayamón,"$155,000",Casa, 4 , 3,4172517,0,2017-11-24 20:51:11.259094
+Urbanizacion-Valencia II,Juncos,"$127,000",Casa, 3 , 2,4173689,0,2017-11-24 20:51:11.259094
+Urbanizacion-Lomas Verdes,Bayamón,"$290,000",Casa, 3 , 2,4172367,0,2017-11-24 20:51:11.259094
+Condominio-Playas Del Yunque,Río Grande,"$129,700",Apart, 3 , 2,3881924,0,2017-11-24 20:51:11.259094
+Urbanizacion-Lomas Verdes,Bayamón,"$133,900",Casa, 3 , 2,4172369,0,2017-11-24 20:51:11.259094
+Urbanizacion-Santa Juanita,Bayamón,,Casa, 4 , 2,4173455,0,2017-11-24 20:51:11.259094
