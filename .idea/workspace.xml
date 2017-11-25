@@ -2,24 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4aeb601e-d142-40ce-b771-59c1a8fe6bc5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wheelhouse/Flask-0.12.1-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wheelhouse/Jinja2-2.10-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wheelhouse/MarkupSafe-1.0-cp36-cp36m-win32.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wheelhouse/Werkzeug-0.12.2-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wheelhouse/certifi-2017.11.5-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wheelhouse/chardet-3.0.4-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wheelhouse/click-6.7-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wheelhouse/idna-2.6-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wheelhouse/itsdangerous-0.24-cp36-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wheelhouse/numpy-1.13.3-2-cp36-none-win32.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wheelhouse/pandas-0.21.0-cp36-cp36m-win32.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wheelhouse/python_dateutil-2.6.1-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wheelhouse/pytz-2017.3-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wheelhouse/requests-2.18.4-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wheelhouse/six-1.11.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wheelhouse/urllib3-1.22-py2.py3-none-any.whl" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web.config" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web.2.7.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web.3.4.config" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="$PROJECT_DIR$/requirements.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,11 +26,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.config" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web.config">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -59,6 +55,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/web.config" />
       </list>
     </option>
   </component>
@@ -201,7 +198,23 @@
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web.3.4.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
           <folding />
         </state>
       </provider>
