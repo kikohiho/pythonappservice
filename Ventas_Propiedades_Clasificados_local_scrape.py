@@ -189,7 +189,7 @@ new_data = pd.concat(new_data)
 # new_data=new_data[new_data["ID"] < last_ID]
 
 # new_data = pd.concat([old_data,new_data])
-new_data.to_csv('Scraped_Ventas.csv', index=False)
+new_data.to_csv('D:\home\PersonalStorage\Scraped_Ventas.csv', index=False)
 
 end = time.time()
 print("Time Ellapsed: " + str(end - start) + " seconds")
